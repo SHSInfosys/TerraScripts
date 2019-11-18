@@ -1,0 +1,6 @@
+eee1a572414a954c2257e6ad112e4c8a  deploy.ci.sh
+9c6578576a3d06dc195cf1f29c134567  deploy.mac.sh
+888d0790e2c9d50eee181f107c9dfe8f  graph.png
+b70963e34bcb1f037c2510cbb9c3e728  main.tf
+6625ae4954636bc42e83da6529be11a3  README.md
+343aa0478839233c1d0b2b37cd97f663  variables.tf
